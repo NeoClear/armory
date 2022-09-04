@@ -1,0 +1,63 @@
+baseurl = "https://www.ziheng-zhuang.com"
+title = "Ziheng Armory"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 10
+timeout = 300000
+
+# We don't want to canonify URLs because it prevents us from
+# deploying drafts of the site to alternate hosts.
+canonifyurls = false
+
+pygmentsstyle = "colorful"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+buildFuture = true
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+  [markup.highlight]
+    style = "native"
+  [markup.goldmark.renderer]
+    # Allow Markdown to include embedded HTML.
+    unsafe= true
+
+[permalinks]
+    posts = "/:filename/"
+
+[params]
+    author = "Ziheng Zhuang"
+    info = "By day, a simple software engineer. By night, also a software engineer."
+    description = "Updates about my life and what I learn about creating software"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/avatar.jpg"
+
+    favicon_32 = "/images/favicon/favicon-32x32.png"
+    favicon_16 = "/images/favicon/favicon-16x16.png"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    custom_css = ["css/main.css"]
+
+    photoWidths = [300, 600, 800, 1200]
+
+[imaging]
+quality = 90
+resampleFilter = "Lanczos"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"

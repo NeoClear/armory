@@ -1,0 +1,17 @@
+{
+  "name": "mtlynch-io-dev",
+  "version": "1.0.0",
+  "description": "mtlynch.io dev scripts",
+  "scripts": {
+    "check-format": "prettier --check .",
+    "format": "prettier --write ."
+  },
+  "author": "Ziheng Zhuang",
+  "devDependencies": {
+    "prettier": "^2.6.0",
+    "prettier-plugin-go-template": "0.0.11"
+  },
+  "dependencies": {
+    "hugo": "^0.0.3"
+  }
+}
