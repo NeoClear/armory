@@ -8,3 +8,4 @@ config-preview.toml
 node_modules/
 .vercel
 .vscode/
+.DS_Store
