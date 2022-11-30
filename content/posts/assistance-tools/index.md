@@ -69,3 +69,7 @@ tmux plugin to save and restore tmux sessions on reboot.
 ## [asciinema](https://asciinema.org/)
 
 Record terminal sessions without barrier.
+
+## [balenaEtcher](https://www.balena.io/etcher/)
+
+A software burns images to usb drives.
