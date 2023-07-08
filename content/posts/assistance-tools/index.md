@@ -73,3 +73,11 @@ Record terminal sessions without barrier.
 ## [balenaEtcher](https://www.balena.io/etcher/)
 
 A software burns images to usb drives.
+
+## [Helix](https://helix-editor.com/)
+
+A post-modern editor that serves as an alternative to vim/neovim.
+The terminal editor is written in Rust and starts fast. The edit mode is
+a bit different from vim, and batch edits are based on selection.
+
+You may find it useful when it comes to editing code. And it loads fast.
