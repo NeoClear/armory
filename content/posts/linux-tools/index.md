@@ -2,8 +2,7 @@
 title: "Linux Tools"
 description: Cheat sheets containing various common linux utility tools that is used daily. The list has (but not limited to) bluetooth utilities, audio control cli and display manager.
 date: 2024-05-11
-images:
-  - linux-tools/preface.jpg
+hero_image: preface.jpg
 tags:
   - Tool
 ---

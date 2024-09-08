@@ -2,8 +2,7 @@
 title: "Meta Internship"
 description: First time being in a FAANG company (If it is still a thing :)
 date: 2022-11-24
-images:
-  - meta-internship/meta-billboard.jpeg
+hero_image: meta-billboard.jpeg
 tags:
   - Internship
 ---
