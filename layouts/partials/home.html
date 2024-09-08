@@ -1,30 +1,33 @@
 <section class="container centered">
-    <div>
-        <p>
-            I'm Ziheng Zhuang, software developer and life-long learner. I used to intern as a
-            software engineer at large companies and a trading firm, and I enjoy building exciting software technologies
-        </p>
+  <div>
+    <p>
+      I'm Ziheng Zhuang, software developer and life-long learner. I used to
+      intern as a software engineer at large companies and a trading firm, and I
+      enjoy building exciting software technologies
+    </p>
 
-        <div class="lists">
-            <h2>Recent Posts</h2>
+    <div class="lists">
+      <h2>Recent Posts</h2>
 
-            <ul>
-                {{ range ( .Site.RegularPages | first 10 ) }}
-                <li>
-                    {{ .Date.Format "2006-01-02" }}:
-                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                    <a class="tag tag-{{ .Section }}" href="/{{ .Section }}/">{{ .Section }}</a>
-                </li>
-                {{ end }}
-            </ul>
-            <h2>Articles about Software Development</h2>
+      <ul>
+        {{ range ( .Site.RegularPages | first 10 ) }}
+        <li>
+          {{ .Date.Format "2006-01-02" }}:
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <a class="tag tag-{{ .Section }}" href="/{{ .Section }}/"
+            >{{ .Section }}</a
+          >
+        </li>
+        {{ end }}
+      </ul>
+      <h2>Articles about Software Development</h2>
 
-            <ul>
-                <li>
-                    <a href="/code-review/">Code Review Techniques</a>
-                </li>
-            </ul>
-            <p>&nbsp;</p>
-        </div>
+      <ul>
+        <li>
+          <a href="/code-review/">Code Review Techniques</a>
+        </li>
+      </ul>
+      <p>&nbsp;</p>
     </div>
+  </div>
 </section>
