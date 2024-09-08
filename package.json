@@ -1,7 +1,7 @@
 {
-  "name": "mtlynch-io-dev",
+  "name": "armory-website",
   "version": "1.0.0",
-  "description": "mtlynch.io dev scripts",
+  "description": "armory website",
   "scripts": {
     "check-format": "prettier --check .",
     "format": "prettier --write ."
@@ -12,6 +12,6 @@
     "prettier-plugin-go-template": "0.0.11"
   },
   "dependencies": {
-    "hugo": "^0.0.3"
+    "hugo-bin": "^0.131.1"
   }
 }
