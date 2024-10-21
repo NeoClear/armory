@@ -127,7 +127,7 @@
         property="article:author"
         content="https://www.facebook.com/{{ . }}"
       />
-    {{ end }}{{ with .Site.Social.facebook }}
+    {{ end }}{{ with .Site.Params.facebook }}
       <meta
         property="article:publisher"
         content="https://www.facebook.com/{{ . }}"
@@ -144,6 +144,6 @@
 {{ end }}
 
 {{- /* Facebook Page Admin ID for Domain Insights */}}
-{{- with .Site.Social.facebook_admin }}
+{{- with .Site.Params.facebook_admin }}
   <meta property="fb:admins" content="{{ . }}" />
 {{ end }}
