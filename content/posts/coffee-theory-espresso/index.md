@@ -164,6 +164,56 @@ Other than the above 2, there is no good entry-level grinder (from my perspectiv
         * Lack support for NA power supplies
         * Need to sort out shipping yourself
 
+## Espresso Gadgets
+> Just pick products that makes you feel good when preping espresso. they don't really matter too much in terms of impact on shot quality
+1. Portafilter
+    * Bottomless?
+    * Flat?
+    * Build material
+2. Basket
+    * Ridgeless?
+    * Flow speed
+    * Number of holes
+3. Tamper
+    * Leveled?
+    * Constant force?
+    * Build material
+4. Dosing Funnel
+    * Magnatic?
+    * Material?
+5. WDT Tool
+    * Material?
+
+### Portafilter
+1. The OEM bottomless portafilter for each manufacturer
+2. Weber
+3. Sworks Design
+4. CafeSing
+5. 来去一味
+### Basket
+1. VST
+2. Sworks Design
+3. Wafo
+4. Weber
+5. Pesado
+6. 来去一味
+### Tamper
+1. Normcore Tamper
+2. Bravo Tamper
+3. Force Tamper
+4. Tough Tamper (all stainless steel)
+### WDT Tool
+1. Normcore
+2. CafeSing
+3. Tough
+### Dosing Funnel
+1. Forzcon
+2. Matow
+3. Tough
+### Shaking Cup
+1. Tough
+2. CafeSing
+
 ## My Pick
 ### What I have right now
 1. DF64 gen 2 (Entry level choice)
