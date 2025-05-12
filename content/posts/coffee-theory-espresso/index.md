@@ -87,6 +87,14 @@ I mostly drink espresso, as it takes less time to produce. Filter coffee works b
 4. Espresso & filter coffee require different burr sets. Espresso need more fine particles, while filter want less fines. Espresso grinds finer.
 5. Burr size matters
 
+#### What To Look For
+1. Motor type: brushed, brushless, servos
+2. Alignment
+3. Serviceability
+4. Build quality
+5. Prebreaker
+6. Bean feed rate controller (auger)
+
 #### Models For Recommendation
 > Entry Levels
 1. DF64 Gen 2
