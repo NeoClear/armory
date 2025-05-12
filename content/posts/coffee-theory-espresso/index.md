@@ -14,9 +14,8 @@ There are different types of coffee:
 
 I mostly drink espresso, as it takes less time to produce. Filter coffee works better if you want to taste the flavor of high-quality coffee beans like Geisha.
 
-## Espresso Equipments
-### Espresso Machine
-#### Functionalities
+## Espresso Machine
+### Functionalities
 1. **PID**: For better temperature control.
 2. **OPV**: You can adjust the pressure on the brew head.
 3. **Grouphead**: There are different types of groupheads. Check for compatibility before you choose a machine or coffee gears.
@@ -24,7 +23,7 @@ I mostly drink espresso, as it takes less time to produce. Filter coffee works b
 5. **Boiler**: Single/dual boiler; Boiler heated or heating block.
 6. **Build quality**: What material is used. Brass (better maluability, cheaper, better heat retention) is definitely fine for the espresso machine, but stainless steel (healthier? more expensive) is better.
 
-#### Models For Recommendation
+### Models For Recommendation
 > Entry levels
 1. Rancilio Silvia M V6
     * Pros:
@@ -79,15 +78,15 @@ I mostly drink espresso, as it takes less time to produce. Filter coffee works b
         * Grouphead is not compatible with a lot of baskets & portafilters
         * Expensive
 
-### Coffee Grinders
-#### Theory
+## Coffee Grinders
+### Theory
 1. We need the grinder because grounded coffee lose their flavor over time, you need to grind fresh to get the best out of coffee beans
 2. Particles from grinding matters, burrs matter, burr alignment matters, grinding speed matters
 3. Bean > grinder > espresso machine
 4. Espresso & filter coffee require different burr sets. Espresso need more fine particles, while filter want less fines. Espresso grinds finer.
 5. Burr size matters
 
-#### What To Look For
+### What To Look For
 1. Motor type: brushed, brushless, servos
 2. Alignment
 3. Serviceability
@@ -95,7 +94,7 @@ I mostly drink espresso, as it takes less time to produce. Filter coffee works b
 5. Prebreaker
 6. Bean feed rate controller (auger)
 
-#### Models For Recommendation
+### Models For Recommendation
 > Entry Levels
 1. DF64 Gen 2
     * Pros:
