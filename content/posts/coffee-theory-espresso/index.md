@@ -22,6 +22,8 @@ I mostly drink espresso, as it takes less time to produce. Filter coffee works b
 4. **Pump**: Rotery pump; viberate pump. Rotery pump is better.
 5. **Boiler**: Single/dual boiler; Boiler heated or heating block.
 6. **Build quality**: What material is used. Brass (better maluability, cheaper, better heat retention) is definitely fine for the espresso machine, but stainless steel (healthier? more expensive) is better.
+7. **Dimension & Weight**: It must fit into your counterspace.
+8. **Heat up time**: You cannot wait for 30 min just to make espresso. There is usually programmable wakeup feature, but I generally don't wanna rely on it.
 
 ### Models For Recommendation
 > Entry levels
@@ -36,6 +38,7 @@ I mostly drink espresso, as it takes less time to produce. Filter coffee works b
         * Not too much control to the user
         * Grouphead is somewhat E61 compatible, but not entirely
         * The factory screw for the grouphead looks bad
+        * Not standard E61
 2. Profitec Go
     * Pros:
         * Slightly more expensive than Rancilio Silvia, but has both PID & OPV
@@ -70,12 +73,14 @@ I mostly drink espresso, as it takes less time to produce. Filter coffee works b
         * Good build Quality
         * I like the design more than Bianca
     * Cons:
-        * N/A
+        * Heat up slower, around 7 minutes
 3. La Marzzoco Linea Micra
     * Pros:
         * La Marzzoco
+        * Small dimension
+        * Quick startup
     * Cons:
-        * Grouphead is not compatible with a lot of baskets & portafilters
+        * Grouphead has it's own shape
         * Expensive
 
 ## Coffee Grinders
