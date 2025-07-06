@@ -194,14 +194,18 @@ Other than the above 2, there is no good entry-level grinder (from my perspectiv
 2. Weber
 3. Sworks Design
 4. CafeSing
-5. 来去一味
+5. 来去一味 (not necessarily good)
+6. Apollo
+7. 板鬼 (usually out-of-stock)
+8. Duyao (on Rednote, usually out-of-stock)
 ### Basket
-1. VST
+1. VST (buy this if you don't know anything)
 2. Sworks Design
 3. Wafo
 4. Weber
 5. Pesado
 6. 来去一味
+7. PCL (the best per value and pretty good quality, only available on Taobao)
 ### Tamper
 1. Normcore Tamper
 2. Bravo Tamper
@@ -212,18 +216,34 @@ Other than the above 2, there is no good entry-level grinder (from my perspectiv
 2. CafeSing
 3. Tough
 ### Dosing Funnel
-1. Forzcon
+1. Forzcon (this one is the best I've found)
 2. Matow
 3. Tough
 ### Shaking Cup
-1. Tough
+1. Tough (best?)
 2. CafeSing
 
 ## My Pick
 ### What I have right now
+#### Machines
 1. DF64 gen 2 (Entry level choice)
 2. Rancilio Silvia V6 M (Entry level choice)
+#### Gadgets
+1. VST 18g Ridgeless
+2. Rancilio OEM bottomless portafilter
+3. Bravo Tamper
+4. Matow dosing ring
 
 ### What I'm Planning To Get
-1. Zerno Z1 (For build quality, design & blind burr)
+#### Machines
+1. ~~Zerno Z1 (For build quality, design & blind burr)~~
 2. Ultra Grinder (For 98mm burr exploration)
+3. Lagom P64
+#### Gadgets
+1. PCL Cone/Cylin basket
+2. Forzcon megnatic dosing ring
+3. Tough stainless steel tamper
+4. Tough shaking cup
+5. Superlube food-grade lubrication gel
+6. IMS RA200 IM shower screen for Rancilio Silia
+7. Wera Tool-Check Plus tool for machine maintenance
